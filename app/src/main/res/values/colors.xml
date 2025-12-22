@@ -6,4 +6,12 @@
     <color name="green">#2fc36b</color>
     <color name="grey">#e5e5e5</color>
     <color name="semi_back">#121b29</color>
+    
+    <!-- New Premium Colors -->
+    <color name="purple_primary">#6200EE</color>
+    <color name="purple_dark">#3700B3</color>
+    <color name="neon_blue">#03DAC5</color>
+    <color name="dark_bg">#1A1A1A</color>
+    <color name="input_bg">#2C2C2C</color>
+    <color name="text_hint">#AAAAAA</color>
 </resources>

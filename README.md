@@ -2,6 +2,7 @@
 
 Là ứng dụng Android mô phỏng ví tiền điện tử, cho phép người dùng:
 - Đăng nhập / đăng ký tài khoản
+- Dùng FakeApi để đăng nhập (https://fakestoreapi.com/users)
 - Theo dõi danh sách các đồng tiền điện tử (BTC, ETH,…)
 - Xem biến động giá theo thời gian thực (mock data)
 - Giao diện hiện đại, dễ sử dụng
